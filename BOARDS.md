@@ -2,6 +2,7 @@
 
 Documentation missing 404 links, only one project available to download, it yields error during update when opening with Libero 11.9
 Link to unofficial documents found there:
+
 https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
 
 *Reverse engineeded (from Hello World prj) documenation:*
@@ -18,3 +19,4 @@ https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
 |RX          | H3  | FTDI UART RX    |
 |TX          | G3  | FTDI UART TX    |
 
+CLK0 at H16 is not present in Schematic R1 !
