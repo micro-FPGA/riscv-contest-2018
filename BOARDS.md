@@ -1,8 +1,10 @@
 ## SmartFusion2 Board
 
 Documentation missing 404 links, only one project available to download, it yields error during update when opening with Libero 11.9
+Link to unofficial documents found there:
+https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
 
-*Reverse engineeded documenation:*
+*Reverse engineeded (from Hello World prj) documenation:*
 
 |Pin/Net     |Loc  |Comment          |
 |------------|-----|-----------------|
