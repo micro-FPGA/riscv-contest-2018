@@ -1,7 +1,6 @@
 ## SmartFusion2 Board
 
-Documentation missing 404 links
-Only one project available to download, it yields error during update when opening with Libero 11.9
+Documentation missing 404 links, only one project available to download, it yields error during update when opening with Libero 11.9
 
 *Reverse engineeded documenation:*
 
