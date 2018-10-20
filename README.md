@@ -5,4 +5,4 @@ Notes about the contest and rules, to be used as collaboration media during the 
 
 Please look at project issues and add new ones!
 
-There is also an unofficial FAQ in the wiki section
+There is also an unofficial https://github.com/micro-FPGA/riscv-contest-2018/wiki in the wiki section
