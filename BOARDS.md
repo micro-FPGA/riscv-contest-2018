@@ -7,7 +7,7 @@ https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
 
 *Reverse engineeded (from Hello World prj) documenation:*
 
-|Pin/Net     |Loc  |Comment          |
+| Pin/Net    | Loc | Comment         |
 |------------|-----|-----------------|
 |CLK0_PAD    | H16 | 50MHz Clock     |
 |GPIO_IN[0]  | H12 | Push Button     |
