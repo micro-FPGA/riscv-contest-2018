@@ -1,6 +1,9 @@
 ## SmartFusion2 Board
 
-Documentation missing 404 links, only one project available to download, it yields error during update when opening with Libero 11.9
+FPGA Projects in github
+
+https://github.com/RISCV-on-Microsemi-FPGA/RISC-V-Creative-Board
+
 Link to unofficial documents found there:
 
 https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
