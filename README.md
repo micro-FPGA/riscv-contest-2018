@@ -1,5 +1,5 @@
 # RISC-C SoftCPU Contest 2018
-Official RISC-V SoftCPU Contest 2018 is announcement there https://riscv.org/2018contest/
+Official RISC-V SoftCPU Contest 2018 announcement and rules https://riscv.org/2018contest/
 
 Official Mailinglist will be there https://groups.google.com/a/riscv.org/forum/#!forum/softcpu-contest
 
