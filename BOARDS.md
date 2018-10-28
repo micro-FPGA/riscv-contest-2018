@@ -22,4 +22,4 @@ https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
 |RX          | H3  | FTDI UART RX    |
 |TX          | G3  | FTDI UART TX    |
 
-CLK0 at H16 is not present in Schematic R1 !
+
