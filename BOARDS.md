@@ -23,3 +23,8 @@ https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
 |TX          | G3  | FTDI UART TX    |
 
 
+## Lattice Breakout board
+Enabling UART by Frank Buss
+
+https://medium.com/@frankbuss/how-to-enable-a-serial-port-to-the-ice40-ultra-breakout-board-d588b4f28ff9
+
