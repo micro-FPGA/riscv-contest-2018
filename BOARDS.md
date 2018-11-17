@@ -4,6 +4,9 @@ FPGA Projects in github
 
 https://github.com/RISCV-on-Microsemi-FPGA/RISC-V-Creative-Board
 
+Official github there
+https://github.com/Future-Electronics-Design-Center/Creative-Eval-Board
+
 Link to unofficial documents found there:
 
 https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
