@@ -22,8 +22,8 @@ https://github.com/pcotret/smartfusion2-getting-started/tree/master/docs
 |GPIO_OUT[1] | M16 | LED             |
 |GPIO_OUT[2] | J16 | LED             |
 |GPIO_OUT[3] | N16 | LED             |
-|RX          | H3  | FTDI UART RX    |
-|TX          | G3  | FTDI UART TX    |
+|RX          | H3  | From FTDI UART  |
+|TX          | G3  | To FTDI UART    |
 
 
 ## Lattice Breakout board
